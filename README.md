@@ -21,7 +21,7 @@ To use the eGFR-CKD-EPI calculator, follow these steps:
 
 2. Clone the Repository: Clone the eGFR-CKD-EPI repository from GitHub to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/eGFR-CKD-EPI.git
+   git clone https://github.com/Mreghbal/eGFR-CKD-EPI.git
    ```
 
 3. Navigate to the Directory: Change your current directory to the cloned repository:
